@@ -1,13 +1,54 @@
-# C_Learning
-This repository is for my c language programs and programming concepts that I learned when I was learning C language.
+This repository contains the C programs I wrote while learning C programming.
+It’s a personal collection of practice codes, starting from basics and gradually moving towards data structures and algorithms.
 
-A collection of programs, notes, and implementations to practice and master the C programming language.
-This repository covers:
+📌 Contents
 
-🔹 Basics of C (variables, loops, functions, pointers)
+🔹 Basics
 
-🔹 Data Structures (arrays, linked lists, stacks, queues, trees, etc.)
+Functions & recursion
 
-🔹 Algorithms (sorting, searching, recursion, etc.)
+Arrays, strings, and pointers
 
-🔹 Hands-on mini projects and practice exercises
+🔹 Data Structures (so far)
+
+Stack (array & linked list)
+
+Queue (linear & circular, array & linked list)
+
+Linked List
+
+Singly linked list
+
+Doubly linked list
+
+🔹 Work in Progress / Future Plans
+
+I’ll keep adding more programs as I learn, including:
+
+Circular linked list
+
+Priority queue & Deque
+
+Trees (binary tree, BST, AVL)
+
+Graphs (BFS, DFS)
+
+Sorting & searching algorithms
+
+💻 How to Run
+
+Clone the repo:
+
+git clone https://github.com/your-username/c-learning.git
+cd c-learning
+
+
+Compile and run any program using:
+
+gcc filename.c -o output
+./output
+
+📖 Note
+
+This repo is not meant to teach but rather to document my own learning journey in C programming.
+Feel free to explore the code if you’re curious!
